@@ -1,4 +1,4 @@
-import { Term } from "@prisma/client";
+import { Term } from "../generated/prisma/client";
 
 export const termSeedData = [
 {
